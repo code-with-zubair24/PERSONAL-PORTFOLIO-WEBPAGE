@@ -126,9 +126,8 @@ The layout automatically adjusts based on screen size for the best user experien
 - Well Commented Source Code
 - Easy Customization
 
----
-
-## 📸 Screenshots
+---##output
+<img width="1298" height="2293" alt="Image" src="https://github.com/user-attachments/assets/49027b24-81c8-449b-bc0e-10295c8eac18" />
 
 ### Home Page
 Professional landing section with profile image and introduction.
